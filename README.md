@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Viktoria Krynytska (@viktoriawork)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Node.js and GraphQl 
+Hi there 👋, my name is Viktoria!
+
+👩‍💻 I am junior frontend developer 💼 HTML / CSS/ JS / REACT
+
+🌱 I’m currently learning Node.js and GraphQl
+
 - 📫 How to reach me - viktoriawork2@gmail.com, https://www.linkedin.com/in/viktoria2/ 
 
 <!---
