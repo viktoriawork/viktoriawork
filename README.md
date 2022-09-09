@@ -4,7 +4,7 @@ Hi there 👋, my name is Viktoria!
 
 🌱 I’m currently learning Node.js and GraphQl
 
-- 📫 How to reach me - viktoriawork2@gmail.com, https://www.linkedin.com/in/viktoria2/ 
+- 📫 How to reach me - viktoriawork2@gmail.com
 
 <!---
 viktoriawork/viktoriawork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
